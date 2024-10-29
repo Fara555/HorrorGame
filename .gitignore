@@ -39,3 +39,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 LagunaProject/.idea/.idea.LagunaProject/.idea/indexLayout.xml
+
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+
