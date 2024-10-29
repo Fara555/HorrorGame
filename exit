@@ -1,0 +1,53 @@
+[33mcommit c3e8e6b369488b4681bd95dfab28be78c553073d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Faradj Faradjov <faraway51423@gmail.com>
+Date:   Tue Apr 9 19:26:30 2024 +0500
+
+    Pickup Battery/Terrain Fix
+
+[33mcommit 5995b57d13cbf9c735e8f6baf5504c958186f1fc[m
+Author: Faradj Faradjov <faraway51423@gmail.com>
+Date:   Tue Apr 9 15:22:54 2024 +0500
+
+    Added battery pick up/ Change gitattributes
+
+[33mcommit 2b98ab82c9c72543a337bf516dd6d207fe72d0a1[m
+Author: Faradj Faradjov <faraway51423@gmail.com>
+Date:   Mon Apr 8 22:13:59 2024 +0500
+
+    Add camera shake/flashlight/fix snow/sounds
+
+[33mcommit 4ba13d3ea418238424140fedc6e7bc0cf3e0a20e[m
+Merge: 9cc8d4840 001197ab6
+Author: Faradj Faradjov <faraway51423@gmail.com>
+Date:   Wed Apr 3 11:27:57 2024 +0500
+
+    Merge branch 'main' of https://gitlab.com/faraway51423/horrorgame
+
+[33mcommit 9cc8d4840c8e5383e6b62506e7cb8a3eda27628e[m
+Author: Faradj Faradjov <faraway51423@gmail.com>
+Date:   Wed Apr 3 11:24:58 2024 +0500
+
+    Added first location white box v1
+
+[33mcommit 001197ab64e10268c01689e280d9f2bd92c50ece[m
+Merge: a109526a1 4f19f8229
+Author: Фарадж Фараджов <faraway51423@gmail.com>
+Date:   Wed Mar 27 08:39:22 2024 +0000
+
+    Merge branch 'master' into 'main'
+    
+    Merge all to main
+    
+    See merge request faraway51423/horrorgame!1
+
+[33mcommit 4f19f8229f5f0540d30c0bbfbb3ef6a764ccdc72[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Faradj Faradjov <faraway51423@gmail.com>
+Date:   Wed Mar 27 11:50:08 2024 +0500
+
+    initial  commit
+
+[33mcommit a109526a1ef10513f59a91f026d1d446b115ddb6[m
+Author: Фарадж Фараджов <faraway51423@gmail.com>
+Date:   Wed Mar 27 06:45:32 2024 +0000
+
+    Initial commit
