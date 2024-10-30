@@ -86,7 +86,7 @@ public class ThrowableItem : MonoBehaviour, IInteractable
         rb.isKinematic = false;
         coll.isTrigger = false;
 
-        rb.velocity = playerRB.velocity;
+        rb.linearVelocity = playerRB.linearVelocity;
 
         rb.AddForce(cam.forward * dropForwardForce, ForceMode.Impulse);
         rb.AddForce(cam.up * dropUpwardForce, ForceMode.Impulse);
@@ -105,7 +105,7 @@ public class ThrowableItem : MonoBehaviour, IInteractable
         rb.isKinematic = false;
         coll.isTrigger = false;
 
-        rb.velocity = playerRB.velocity;
+        rb.linearVelocity = playerRB.linearVelocity;
 
         rb.AddForce(cam.forward * throwForwardForce, ForceMode.Impulse);
         rb.AddForce(cam.up * throwUpwardForce, ForceMode.Impulse);

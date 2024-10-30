@@ -75,7 +75,7 @@ public class PlayerFootStepSystem : MonoBehaviour
 
     private void ChangeFootStepSound()
     {
-        if (!isGrounded || rb.velocity.magnitude <= 0.5f)
+        if (!isGrounded || rb.linearVelocity.magnitude <= 0.5f)
         {
             if (walkSoundSource.isPlaying)
             {
@@ -116,7 +116,7 @@ public class PlayerFootStepSystem : MonoBehaviour
 
     private void CheckFootStepSound()
     {
-        if (isGrounded && rb.velocity.magnitude > 0.5f)
+        if (isGrounded && rb.linearVelocity.magnitude > 0.5f)
         {
             if (isSprinting)
             {

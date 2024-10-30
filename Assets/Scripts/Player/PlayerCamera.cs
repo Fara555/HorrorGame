@@ -106,7 +106,7 @@ public class PlayerCamera : MonoBehaviour
 
     private void CheckMotion(Vector3 motion) //Set motion 
     {
-        float speed = new Vector3(playerRB.velocity.x, 0, playerRB.velocity.z).magnitude;
+        float speed = new Vector3(playerRB.linearVelocity.x, 0, playerRB.linearVelocity.z).magnitude;
 
         if (speed < _toggleSpeed) return;
         if (!playerFootSteps.isGrounded) return;
